@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-    <img src="https://i.pinimg.com/1200x/7b/87/1c/7b871cee4ff324b9cc17ea028b4074ce.jpg?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;++I'm+Puranjay+Sharma!;" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=32&pause=1000&color=4493F8&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+👋;I'm+Puranjay+Sharma!;" alt="Typing SVG" />
 </h1>
 
 - 🌱 I’m currently learning **[System Design] && [GO]**
